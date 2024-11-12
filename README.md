@@ -1,9 +1,9 @@
-# Neural Network Marketing Mix Modeling: 
+# Neural Network Media Mix Modeling: 
 ## An Integrated Mediation Analysis Framework
 
-## Introduction: Rethinking Marketing Mix Models Through Mediation Analysis
+## Introduction: Rethinking Media Mix Models Through Mediation Analysis
 
-Marketing mix modeling traditionally attempts to directly map marketing spend to revenue, often treating the process as a black box. However, we know that marketing operates through a chain of effects: spend generates impressions, and these impressions then influence consumer behavior to drive revenue. This indirect pathway represents a classic mediation relationship, where impressions serve as the mediator between marketing investment and financial outcomes.
+Media mix modeling traditionally attempts to directly map marketing spend to revenue, often treating the process as a black box. However, we know that marketing operates through a chain of effects: spend generates impressions, and these impressions then influence consumer behavior to drive revenue. This indirect pathway represents a classic mediation relationship, where impressions serve as the mediator between marketing investment and financial outcomes.
 
 Traditional mediation analysis typically involves separate models for each relationship:
 1. Modeling spend's effect on impressions
