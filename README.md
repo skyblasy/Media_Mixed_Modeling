@@ -10,11 +10,11 @@ Traditional mediation analysis typically involves separate models for each relat
 2. Modeling impressions' effect on revenue
 3. Combining these effects to understand total impact
 
-Our innovation lies in using a multi-stage neural network to integrate these traditionally separate steps into a single, cohesive framework. This unified approach allows the model to learn the entire causal chain simultaneously, capturing complex interactions and dependencies that might be missed when these relationships are modeled separately.
+The innovation lies in using a multi-stage neural network to integrate these traditionally separate steps into a single, cohesive framework. This unified approach allows the model to learn the entire causal chain simultaneously, capturing complex interactions and dependencies that might be missed when these relationships are modeled separately.
 
 ## The Multi-Stage Neural Network: A Unified Framework
 
-Our architecture explicitly encodes the mediation structure through its stage design:
+The architecture explicitly encodes the mediation structure through its stage design:
 
 ### Stage 1: Marketing Spend → Impressions
 The first stage uses dense neural network layers to capture how different marketing channels generate impressions. This mirrors the first step of traditional mediation analysis but allows for non-linear relationships and interaction effects between channels.
